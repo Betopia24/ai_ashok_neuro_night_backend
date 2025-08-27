@@ -5,10 +5,12 @@ build/
 # Node
 node_modules/
 
+temp_auto_push.bat
 # Environment
-.env
 
 # Vercel Deployment
 .vercel/
 dist
-.vercel
+.vercel.gitignore
+branch_structure.json
+config.bat
